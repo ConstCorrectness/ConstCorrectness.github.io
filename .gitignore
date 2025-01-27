@@ -20,3 +20,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+# jupyter-book
+_build/latex/
+*.pdf
+_build/pdf/
+printpdf.py
+
+const-correctness
