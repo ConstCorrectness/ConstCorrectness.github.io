@@ -6,7 +6,8 @@ name: deploy-book
 on:
   push:
     branches: [ "gh-pages" ]
-
+  paths:
+    - const-correctness/**
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

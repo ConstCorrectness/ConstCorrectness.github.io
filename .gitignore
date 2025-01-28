@@ -29,4 +29,3 @@ _build/latex/
 _build/pdf/
 printpdf.py
 
-const-correctness
